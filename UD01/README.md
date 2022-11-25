@@ -1,4 +1,34 @@
-# Entornos de Desarrollo
-Repositorio de trabajo para el modulo de entornos de desarrollo
+# Lenguajes de programacion
 
-## Lenguajes de programacion
+[portada]:https://ecdisis.com/wp-content/uploads/2021/01/02-Lenguaje-de-programacio%CC%81n-1024x591.jpeg
+
+![fotoPortada][portada]
+
+Integrantes: 
+- María Cristina Sánchez Acosta
+- Miguel Ángel
+- Salvador Martín
+- Rafael García
+
+Curso:
+- 1ºDesarrollo de aplicacion web B
+
+Profesor:
+- José Manuel Sevillano 
+
+**En este trabajo definiremos distintos lenguajes de programación y veremos un ejemplo de cada categoria.**
+
+## Paradigmas
+
+Un paradigma de programación es un marco conceptual, un conjunto de ideas que describe una forma de entender la construcción de programa.
+
+Existen varios tipos de paradigmas entre ellos tenemos:
+- Paradigmas imperativos: Los programas consisten en una sucesion de instrucciones o conjunto de sentencias, como si el programador diera ordenes concretas. En resumen se describe como debe realizarse el programa pero no la finalidad.
+  - Los lenguajes de programación que utilizan el paradigma imperativo son: Java, Pascal, ALGOL
+- Paradigmas declarativos: Utiliza el principio de razonamiento lógico para responder a las preguntas o cuestiones consultadas. En resumen describe que se debe calcular pero no te explica el como.
+  - Este paradigma se divide en dos lenguajes: Programación Lógica: Prolog; Programacion funcional: Lisp, Scala
+- Paradigmas procedimentales: Se refiere a un conjunto de instrucciones o sentencias. Por lo general pequeños programas con pocos calculos y una salida esperada. En resumen, indica un model de organizavion de programas.
+  - Los lenguajes de programación que utilizan esre paradigma son_ C++, Basic.
+
+
+
