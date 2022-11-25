@@ -26,6 +26,7 @@ En programación existen distintos tipos de lenguaje. Según los especialistas l
 Son lenguajes totalmente dependientes de la maquina, es decir, que el programa que se realiza con este tipo de lenguajes no se puede migrar a otras maquinas. El uso del termino bajo en su nombre no quiere decir que este lenguaje sea menos potente o importante a otro de diferente nivel, simplemente se refiere a la reducida abstración.
 
 Caracteristicas
+
     • Codigo sencillo
     • Muy adaptable 
     • Con instrucciones directas
