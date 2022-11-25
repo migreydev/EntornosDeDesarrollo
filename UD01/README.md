@@ -31,7 +31,7 @@ Existen varios tipos de paradigmas entre ellos tenemos:
   - Los lenguajes de programación que utilizan esre paradigma son_ C++, Basic.
 - Paradigmas Orientados a Objetos: Es un modelo de programación informática que organiza el diseño de software en torno a datos u objetos, en lugar de funciones y lógica. Un objeto se puede definir como un campo de datos que tiene atributos y comportamiento únicos.
   - En este caso algunos de los lenguajes de programación orientados a objetos son Python, PHP y Ruby.
-- Paradigmas funcionales: Entendemos por programación funcional un lenguaje de programación declarativo donde el programador especifica lo que quiere hacer, en lugar de lidiar con el estado de los objetos. Es decir, las funciones estarían en un primer lugar y nos centraremos en expresiones que pueden ser asignadas a cualquier variable.
+- Paradigmas funcionales: Entendemos por programación funcional un lenguaje de programación declarativo donde el programador especifica lo que quiere hacer, en lugar de lidiar con el estado de los objetos, por lo que las funciones estarían en un primer lugar y nos centraremos en expresiones que pueden ser asignadas a cualquier variable.
   - Actualmente contamos con una gran cantidad de lenguajes en donde podemos hacer uso de la programación funcional, por ejemplo :
 Java. PHP. Ruby. Python. Elixir. Kotling. Haskell. Erlang.
 
