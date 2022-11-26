@@ -1,2 +1,2 @@
 # EntornosDeDesarrollo
-Repositorio de trabajo para el modulo de entronos de desarrollo
+Repositorio de trabajo para el modulo de Entornos de desarrollo
