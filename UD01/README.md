@@ -62,7 +62,8 @@ Además de utilizar palabras del lenguaje humano es más práctico y fácil de m
 Java es un lenguaje de alto nivel, ya que no proporciona ninguna información acerca de la maquina sobre la cual se ejecutara el programa
 
 
-![java](https://user-images.githubusercontent.com/49988347/204132183-611d5c4f-3707-4168-91c3-d5551ff6b9b6.gif)
+![java (1)](https://user-images.githubusercontent.com/49988347/204132318-cc481a33-fd25-46ec-9e79-8e48aa000b74.gif)
+
 
 
 
