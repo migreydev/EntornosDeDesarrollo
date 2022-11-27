@@ -29,6 +29,7 @@ Curso:
 
 Profesor:
 - José Manuel Sevillano 
+[Perfil GitHub](https://github.com/jms3du)
 
 **En este trabajo definiremos distintos lenguajes de programación y veremos un ejemplo de cada categoria.**
 
