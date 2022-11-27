@@ -21,7 +21,7 @@ Profesor:
 ## **Nivel de Abstacción**
 En programación existen distintos tipos de lenguaje. Según los especialistas los dividen por niveles, es decir, de menos a mayor complejidad. Así, por ello, encontramos lenguajes de bajo, medio y alto nivel.
 
-### **¿Qué es un lenguaje de bajo nivel?**
+### ***¿Qué es un lenguaje de bajo nivel?***
 
 Son lenguajes totalmente dependientes de la máquina, es decir, que el programa que se realiza con este tipo de lenguajes no se puede migrar a otras máquinas. El uso del término bajo en su nombre no quiere decir que este lenguaje sea menos potente o importante a otro de diferente nivel, simplemente se refiere a la reducida abstracción.
 
@@ -38,7 +38,7 @@ Son lenguajes totalmente dependientes de la máquina, es decir, que el programa 
 Este lenguaje de programación es un derivado del lenguaje maquina y está formado por abreviaturas de letras y números llamadas mnemotécnicos o mnemónicos. Con la aparición de este lenguaje se crearon los programas traductores para poder pasar los programas escritos en lenguaje ensamblador a lenguaje máquina.
 Como ventaja con respecto al código máquina es que los códigos fuentes eran más cortos y los programas creados ocupaban menos memoria.
 
-### **¿Qué es un lenguaje de medio nivel?**
+### ***¿Qué es un lenguaje de medio nivel?***
 
 Estos lenguajes se encuentran en un punto medio entre los dos anteriores. Se beneficia de las ventajas de ambos y elimina o reduce los inconvenientes que cada uno tendría por separado. Estos lenguajes se usan para el desarrollo de distintas aplicaciones, por lo tanto, permiten una mayor abstracción, pero manteniendo características del lenguaje de bajo nivel.
 
@@ -46,7 +46,7 @@ Estos lenguajes se encuentran en un punto medio entre los dos anteriores. Se ben
 
 Se trata de un lenguaje de tipo de datos estáticos. Débilmente tipado, que dispone de las estructuras de los lenguajes de alto nivel. Una de las características más peculiares es el uso de “apuntadores”, los cuales son muy útiles en la implementación de algoritmos como listas ligadas, tablas hash y algoritmos de búsqueda. 
 
-### **¿Qué es un lenguaje de alto nivel?**
+### ***¿Qué es un lenguaje de alto nivel?***
 
 El lenguaje de alto nivel es aquel que se aproxima más al lenguaje natural humano que al lenguaje binario de las computadoras, el que se conoce como lenguaje de bajo nivel.
 
