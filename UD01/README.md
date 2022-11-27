@@ -1,8 +1,15 @@
+
 # Lenguajes de programacion
+
+
 
 [portada]:https://ecdisis.com/wp-content/uploads/2021/01/02-Lenguaje-de-programacio%CC%81n-1024x591.jpeg
 
 ![fotoPortada][portada]
+
+![GitHub stars](https://img.shields.io/github/stars/migreydev/EntornosDeDesarrollo)
+![GitHub contributors](https://img.shields.io/github/contributors/migreydev/EntornosDeDesarrollo)
+[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/migreydev/EntornosDeDesarrollo)
 
 Integrantes: 
 - María Cristina Sánchez Acosta
