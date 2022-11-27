@@ -75,10 +75,16 @@ Además de utilizar palabras del lenguaje humano es más práctico y fácil de m
 
 Java es un lenguaje de alto nivel, ya que no proporciona ninguna información acerca de la maquina sobre la cual se ejecutara el programa
 
+```
+public class Main
+{
+	public static void main(String[] args) {
+		System.out.println("Hola a todxs, esto se ejecutá en lenguaje Java");
+	}
+}
+```
 
 ![java (1)](https://user-images.githubusercontent.com/49988347/204132318-cc481a33-fd25-46ec-9e79-8e48aa000b74.gif)
-
-
 
 
 ## Paradigmas
