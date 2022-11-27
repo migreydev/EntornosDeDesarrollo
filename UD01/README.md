@@ -54,12 +54,16 @@ Su función principal radica en que a partir de su desarrollo, existe la posibil
 
 Además de utilizar palabras del lenguaje humano es más práctico y fácil de manipular para el programador.
 
-![image](https://user-images.githubusercontent.com/49988347/204129692-c5d8a2a6-8e47-40dc-9b82-c7d9d57ad917.png)
+![image|20](https://user-images.githubusercontent.com/49988347/204129692-c5d8a2a6-8e47-40dc-9b82-c7d9d57ad917.png)
 
 
 ### **Lenguaje Java**
 
 Java es un lenguaje de alto nivel, ya que no proporciona ninguna información acerca de la maquina sobre la cual se ejecutara el programa
+
+
+![java](https://user-images.githubusercontent.com/49988347/204132183-611d5c4f-3707-4168-91c3-d5551ff6b9b6.gif)
+
 
 
 ## Paradigmas
