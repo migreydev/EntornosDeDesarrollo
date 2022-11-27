@@ -13,7 +13,7 @@
 
 Integrantes: 
 - María Cristina Sánchez Acosta
-- Miguel Ángel
+- Miguel Ángel Reyes Méndez
 - Salvador Martín
 - Rafael García
 
