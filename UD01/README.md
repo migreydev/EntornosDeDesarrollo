@@ -25,6 +25,7 @@ Integrantes:
 
 
 Curso:
+
 - 1ºDesarrollo de aplicacion web B
 
 Profesor:
@@ -48,7 +49,8 @@ Son lenguajes totalmente dependientes de la máquina, es decir, que el programa 
     •	Fácil conversación
     •	Gran velocidad
 
-### **Lenguaje ensamblador**
+**Ejemplos de lenguajes de programacion de nivel bajo**
+- Lenguaje ensamblador, lenguaje maquina.
 
 Este lenguaje de programación es un derivado del lenguaje maquina y está formado por abreviaturas de letras y números llamadas mnemotécnicos o mnemónicos. Con la aparición de este lenguaje se crearon los programas traductores para poder pasar los programas escritos en lenguaje ensamblador a lenguaje máquina.
 Como ventaja con respecto al código máquina es que los códigos fuentes eran más cortos y los programas creados ocupaban menos memoria.
@@ -57,9 +59,9 @@ Como ventaja con respecto al código máquina es que los códigos fuentes eran m
 
 Estos lenguajes se encuentran en un punto medio entre los dos anteriores. Se beneficia de las ventajas de ambos y elimina o reduce los inconvenientes que cada uno tendría por separado. Estos lenguajes se usan para el desarrollo de distintas aplicaciones, por lo tanto, permiten una mayor abstracción, pero manteniendo características del lenguaje de bajo nivel.
 
-### **Lenguaje C**
+**Ejemplos de lenguajes de programacion de medio bajo**
+- Lenguaje C.
 
-Se trata de un lenguaje de tipo de datos estáticos. Débilmente tipado, que dispone de las estructuras de los lenguajes de alto nivel. Una de las características más peculiares es el uso de “apuntadores”, los cuales son muy útiles en la implementación de algoritmos como listas ligadas, tablas hash y algoritmos de búsqueda. 
 
 ### ***¿Qué es un lenguaje de alto nivel?***
 
@@ -72,9 +74,8 @@ Además de utilizar palabras del lenguaje humano es más práctico y fácil de m
 ![image|20](https://user-images.githubusercontent.com/49988347/204129692-c5d8a2a6-8e47-40dc-9b82-c7d9d57ad917.png)
 
 
-### **Lenguaje Java**
-
-Java es un lenguaje de alto nivel, ya que no proporciona ninguna información acerca de la maquina sobre la cual se ejecutara el programa
+**Ejemplos de lenguajes de programacion de nivel alto**
+- Lenguaje C++, Java, Fortran, PHP, Python.
 
 ```
 public class Main
@@ -90,41 +91,21 @@ public class Main
 
 ## Paradigmas
 
-### ***¿Qué es un paradigma?***
-
-Un paradigma de programación es un **marco conceptual**, un conjunto de ideas que describe una forma de entender la construcción de programa.
+Un paradigma de programación es un marco conceptual, un conjunto de ideas que describe una forma de entender la construcción de programa.
 
 Existen varios tipos de paradigmas entre ellos tenemos:
-
-### Paradigmas imperativos
-
-Los programas consisten en una **sucesion de instrucciones o conjunto de sentencias**, como si el programador diera ordenes concretas. En resumen se describe como debe realizarse el programa pero no la finalidad.
-  - Los lenguajes de programación que utilizan el paradigma imperativo son: ***Java, Pascal, ALGOL***
-
-### Paradigmas declarativos
-
-Utiliza el **principio de razonamiento lógico para responder a las preguntas o cuestiones consultadas**. En resumen describe que se debe calcular pero no te explica el como.
-  - Este paradigma se divide en dos lenguajes: Programación Lógica: ***Prolog***; Programacion funcional: ***Lisp, Scala***
-  
-### Paradigmas procedimentales
-
-Se refiere a un **conjunto de instrucciones o sentencias**. Por lo general pequeños programas con pocos calculos y una salida esperada. En resumen, indica un model de organizavion de programas.
-  - Los lenguajes de programación que utilizan esre paradigma son: ***C++, Basic***.
-  
-### Paradigmas orientados a objetos
-
-Es un modelo de programación informática que **organiza el diseño de software en torno a datos u objetos**, en lugar de funciones y lógica. Un objeto se puede definir como un campo de datos que tiene atributos y comportamiento únicos.
-  - En este caso algunos de los lenguajes de programación orientados a objetos son: ***Python, PHP y Ruby***.
-  
-### Paradigmas funcionales
-
-Entendemos por programación funcional un lenguaje de **programación declarativo donde el programador especifica lo que quiere hacer**, en lugar de lidiar con el estado de los objetos. Es decir, las funciones estarían en un primer lugar y nos centraremos en expresiones que pueden ser asignadas a cualquier variable.
+- Paradigmas imperativos: Los programas consisten en una sucesion de instrucciones o conjunto de sentencias, como si el programador diera ordenes concretas. En resumen se describe como debe realizarse el programa pero no la finalidad.
+  - Los lenguajes de programación que utilizan el paradigma imperativo son: Java, Pascal, ALGOL
+- Paradigmas declarativos: Utiliza el principio de razonamiento lógico para responder a las preguntas o cuestiones consultadas. En resumen describe que se debe calcular pero no te explica el como.
+  - Este paradigma se divide en dos lenguajes: Programación Lógica: Prolog; Programacion funcional: Lisp, Scala
+- Paradigmas procedimentales: Se refiere a un conjunto de instrucciones o sentencias. Por lo general pequeños programas con pocos calculos y una salida esperada. En resumen, indica un model de organizavion de programas.
+  - Los lenguajes de programación que utilizan esre paradigma son_ C++, Basic.
+- Paradigmas Orientados a Objetos: Es un modelo de programación informática que organiza el diseño de software en torno a datos u objetos, en lugar de funciones y lógica. Un objeto se puede definir como un campo de datos que tiene atributos y comportamiento únicos.
+  - En este caso algunos de los lenguajes de programación orientados a objetos son Python, PHP y Ruby.
+- Paradigmas funcionales: Entendemos por programación funcional un lenguaje de programación declarativo donde el programador especifica lo que quiere hacer, en lugar de lidiar con el estado de los objetos. Es decir, las funciones estarían en un primer lugar y nos centraremos en expresiones que pueden ser asignadas a cualquier variable.
   - Actualmente contamos con una gran cantidad de lenguajes en donde podemos hacer uso de la programación funcional, por ejemplo :
-***Java, PHP, Ruby, Python, Elixir, Kotling, Haskell y Erlang***.
+Java. PHP. Ruby. Python. Elixir. Kotling. Haskell. Erlang.
 
-### ***Ejemplos de codigo***
-
-- Paradigma imperativo: Pascal:
 
 
 
