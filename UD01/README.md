@@ -10,6 +10,8 @@
 ![GitHub stars](https://img.shields.io/github/stars/migreydev/EntornosDeDesarrollo)
 ![GitHub contributors](https://img.shields.io/github/contributors/migreydev/EntornosDeDesarrollo)
 [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/migreydev/EntornosDeDesarrollo)
+![Modulo](https://img.shields.io/badge/Entorno%20Desarrollo-1%20B-yellowgreen)
+![Modulo1](https://img.shields.io/badge/Lenguajes%20de%20Programacion-UD01-critical)
 
 Integrantes: 
 - María Cristina Sánchez Acosta
