@@ -89,6 +89,11 @@ public class Main
 ![java (1)](https://user-images.githubusercontent.com/49988347/204132318-cc481a33-fd25-46ec-9e79-8e48aa000b74.gif)
 
 
+
+
+
+![java (1)](https://raw.githubusercontent.com/migreydev/EntornosDeDesarrollo/main/gif/codigo_c.mp4)
+
 ## Paradigmas
 
 Un paradigma de programación es un marco conceptual, un conjunto de ideas que describe una forma de entender la construcción de programa.
