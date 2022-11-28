@@ -34,9 +34,30 @@ Profesor:
 
 **En este trabajo definiremos distintos lenguajes de programación y veremos un ejemplo de cada categoria.**
 
+
+## Índice
+1. Nivel de abstracción:
+	* [Bajo nivel](#bajonivel)
+	* [Medio nivel](#medionivel)
+	* [Alto nivel](#altonivel)
+	
+2. Forma de ejecución:
+	* [Compilados](#compilados)
+	* [Interpretados](#interpretados)
+	* [Virtuales](#virtuales)
+3. Paradigma:
+	* [Imperativos](#imperativos)
+	* [Declarativos](#declarativos)
+	* [Procedimentales](#procedimentales)
+	* [Orientados a objeto](#orientados)
+	* [Funcionales](#funcionales)
+	* [Logicos](#logicos)
+***
+
 ## **Nivel de Abstacción**
 En programación existen distintos tipos de lenguaje. Según los especialistas los dividen por niveles, es decir, de menos a mayor complejidad. Así, por ello, encontramos lenguajes de bajo, medio y alto nivel.
 
+<a name=»bajonivel″></a>
 ### ***¿Qué es un lenguaje de bajo nivel?***
 
 Son lenguajes totalmente dependientes de la máquina, es decir, que el programa que se realiza con este tipo de lenguajes no se puede migrar a otras máquinas. El uso del término bajo en su nombre no quiere decir que este lenguaje sea menos potente o importante a otro de diferente nivel, simplemente se refiere a la reducida abstracción.
@@ -55,6 +76,7 @@ Son lenguajes totalmente dependientes de la máquina, es decir, que el programa 
 Este lenguaje de programación es un derivado del lenguaje maquina y está formado por abreviaturas de letras y números llamadas mnemotécnicos o mnemónicos. Con la aparición de este lenguaje se crearon los programas traductores para poder pasar los programas escritos en lenguaje ensamblador a lenguaje máquina.
 Como ventaja con respecto al código máquina es que los códigos fuentes eran más cortos y los programas creados ocupaban menos memoria.
 
+<a name=»medionivel″></a>
 ### ***¿Qué es un lenguaje de medio nivel?***
 
 Estos lenguajes se encuentran en un punto medio entre los dos anteriores. Se beneficia de las ventajas de ambos y elimina o reduce los inconvenientes que cada uno tendría por separado. Estos lenguajes se usan para el desarrollo de distintas aplicaciones, por lo tanto, permiten una mayor abstracción, pero manteniendo características del lenguaje de bajo nivel.
@@ -62,7 +84,7 @@ Estos lenguajes se encuentran en un punto medio entre los dos anteriores. Se ben
 **Ejemplos de lenguajes de programacion de medio bajo**
 - Lenguaje C.
 
-
+<a name=»altonivel″></a>
 ### ***¿Qué es un lenguaje de alto nivel?***
 
 El lenguaje de alto nivel es aquel que se aproxima más al lenguaje natural humano que al lenguaje binario de las computadoras, el que se conoce como lenguaje de bajo nivel.
@@ -88,6 +110,7 @@ public class Main
 
 ![java (1)](https://user-images.githubusercontent.com/49988347/204132318-cc481a33-fd25-46ec-9e79-8e48aa000b74.gif)
 
+
 **Forma de ejecución (Compilados, Interpretados, Virtuales):**
  
 Especifica el comportamiento de los elementos de dicho lenguaje por lo que aplicándolo se puede derivar el comportamiento de un programa escrito en términos del lenguaje en cuestión.
@@ -96,17 +119,20 @@ Cada lenguaje tiene su propio modelo de ejecución, y estas determinan la manera
 
 **_Existen 3 tipos:_**
 
+<a name=»compilados″></a>
 **Compilados:**
 
     Un lenguaje compilado es un lenguaje de programación cuyas implementaciones son normalmente compiladores 
     (traductores que generan código de máquina a partir del código fuente) y no intérpretes (ejecutores paso 
     a paso del código fuente, donde no se lleva a cabo una traducción en la preejecución).  Eje.: C, Delphi y Python.
 
+<a name=»interpretados″></a>
 **Interpretados:**
 
     Los lenguajes de programación interpretados son aquellos que convierten su lenguaje al de la máquina a medida 
     que ejecutan el código. Ejemplo de lenguajes interpretados: JavaScript, Lua y Ruby.
 
+<a name=»virtuales″></a>
 **Virtuales:**
 
     Este código puede ser a su vez interpretado por una máquina virtual instalada en cualquier equipo. 
