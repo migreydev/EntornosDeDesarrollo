@@ -34,6 +34,13 @@ Profesor:
 
 **En este trabajo definiremos distintos lenguajes de programación y veremos un ejemplo de cada categoria.**
 
+**Índice**
+1. [Nivel de Abstracción] ()
+2. [Paradigma] ()
+3. 
+
+
+
 ## **Nivel de Abstacción**
 En programación existen distintos tipos de lenguaje. Según los especialistas los dividen por niveles, es decir, de menos a mayor complejidad. Así, por ello, encontramos lenguajes de bajo, medio y alto nivel.
 
@@ -88,26 +95,9 @@ public class Main
 
 ![java (1)](https://user-images.githubusercontent.com/49988347/204132318-cc481a33-fd25-46ec-9e79-8e48aa000b74.gif)
 
-**Forma de ejecución (Compilados, Interpretados, Virtuales):**
- 
-Especifica el comportamiento de los elementos de dicho lenguaje por lo que aplicándolo se puede derivar el comportamiento de un programa escrito en términos del lenguaje en cuestión.
 
-Cada lenguaje tiene su propio modelo de ejecución, y estas determinan la manera en la que serán ejecutadas.
 
-Existen 3 tipos:
 
-Compilados:
-
-    Un lenguaje compilado es un lenguaje de programación cuyas implementaciones son normalmente compiladores (traductores que generan código de máquina a partir del código fuente) y no intérpretes (ejecutores paso a paso del código fuente, donde no se lleva a cabo una traducción en la preejecución).  Eje.: C, Delphi y Python.
-
-Interpretados:
-
-    Los lenguajes de programación interpretados son aquellos que convierten su lenguaje al de la máquina a medida que ejecutan el código. 
-    Ejemplo de lenguajes interpretados: JavaScript, Lua y Ruby.
-
-Virtuales:
-
-    Este código puede ser a su vez interpretado por una máquina virtual instalada en cualquier equipo. Tienen una ejecución lenta pero su versatilidad de poder ejecutarse en cualquier entorno los hace muy apreciados.
 
 ![java (1)](https://raw.githubusercontent.com/migreydev/EntornosDeDesarrollo/main/gif/codigo_c.mp4)
 
