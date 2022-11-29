@@ -145,17 +145,39 @@ Cada lenguaje tiene su propio modelo de ejecución, y estas determinan la manera
 
 ## Paradigmas
 
-Un paradigma de programación es un marco conceptual, un conjunto de ideas que describe una forma de entender la construcción de programa.
+Un paradigma de programación es un ***marco conceptual***, un conjunto de ideas que describe una forma de entender la construcción de programa.
 
 Existen varios tipos de paradigmas entre ellos tenemos:
-- Paradigmas imperativos: Los programas consisten en una sucesion de instrucciones o conjunto de sentencias, como si el programador diera ordenes concretas. En resumen se describe como debe realizarse el programa pero no la finalidad.
-  - Los lenguajes de programación que utilizan el paradigma imperativo son: Java, Pascal, ALGOL
-- Paradigmas declarativos: Utiliza el principio de razonamiento lógico para responder a las preguntas o cuestiones consultadas. En resumen describe que se debe calcular pero no te explica el como.
-  - Este paradigma se divide en dos lenguajes: Programación Lógica: Prolog; Programacion funcional: Lisp, Scala
-- Paradigmas procedimentales: Se refiere a un conjunto de instrucciones o sentencias. Por lo general pequeños programas con pocos calculos y una salida esperada. En resumen, indica un model de organizavion de programas.
-  - Los lenguajes de programación que utilizan esre paradigma son_ C++, Basic.
-- Paradigmas Orientados a Objetos: Es un modelo de programación informática que organiza el diseño de software en torno a datos u objetos, en lugar de funciones y lógica. Un objeto se puede definir como un campo de datos que tiene atributos y comportamiento únicos.
-  - En este caso algunos de los lenguajes de programación orientados a objetos son Python, PHP y Ruby.
-- Paradigmas funcionales: Entendemos por programación funcional un lenguaje de programación declarativo donde el programador especifica lo que quiere hacer, en lugar de lidiar con el estado de los objetos. Es decir, las funciones estarían en un primer lugar y nos centraremos en expresiones que pueden ser asignadas a cualquier variable.
+
+### Paradigmas imperativos
+
+Los programas consisten en una **sucesion de instrucciones o conjunto de sentencias**, como si el programador diera ordenes concretas. En resumen se describe como debe realizarse el programa pero no la finalidad.
+  - Los lenguajes de programación que utilizan el paradigma imperativo son: _Java, Pascal, ALGOL_
+  
+### Paradigmas declarativos
+
+Utiliza el **principio de razonamiento lógico** para responder a las preguntas o cuestiones consultadas. En resumen describe que se debe calcular pero no te explica el como.
+  - Este paradigma se divide en dos lenguajes: Programación Lógica: _Prolog_; Programacion funcional: _Lisp, Scala_
+  
+### Paradigmas procedimentales
+
+Se refiere a un **conjunto de instrucciones o sentencias**. Por lo general pequeños programas con pocos calculos y una salida esperada. En resumen, indica un model de organizavion de programas.
+  - Los lenguajes de programación que utilizan esre paradigma son: _C++, Basic_
+  
+### Paradigmas Orientados a Objetos
+
+Es un modelo de programación informática que **organiza el diseño de software en torno a datos u objetos**, en lugar de funciones y lógica. Un objeto se puede definir como un campo de datos que tiene atributos y comportamiento únicos.
+  - En este caso algunos de los lenguajes de programación orientados a objetos son: _Python, PHP y Ruby_
+  
+### Paradigmas funcionales
+
+Entendemos por programación funcional un **lenguaje de programación declarativo donde el programador especifica lo que quiere hacer**, en lugar de lidiar con el estado de los objetos. Es decir, las funciones estarían en un primer lugar y nos centraremos en expresiones que pueden ser asignadas a cualquier variable.
   - Actualmente contamos con una gran cantidad de lenguajes en donde podemos hacer uso de la programación funcional, por ejemplo :
-Java. PHP. Ruby. Python. Elixir. Kotling. Haskell. Erlang.
+_Java, PHP, Ruby, Python, Elixir, Kotling, Haskell, Erlang_
+
+### Ejemplos de codigo:
+
+- Paradigmas Imperativos: Pascal
+
+![Online Pascal Compiler - online editor - Google Chrome 2022-11-29 17-29-45](https://user-images.githubusercontent.com/84182326/204587834-2136147f-9615-4901-93f2-f23f7b78d917.gif)
+
