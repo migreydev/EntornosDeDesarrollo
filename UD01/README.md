@@ -101,15 +101,20 @@ Además de utilizar palabras del lenguaje humano es más práctico y fácil de m
 - Lenguaje C++, Java, Fortran, PHP, Python.
 
 ```
-public class Main
+public class Mi_Clase_1
 {
-	public static void main(String[] args) {
-		System.out.println("Hola a todxs, esto se ejecutá en lenguaje Java");
-	}
+    public static void main(String args[])
+    {
+        for(int i = 0; i <= 12; i++)
+        {
+            System.out.print("12 * "+ i + " = " + 12 * i + "\n");
+        }
+    }
 }
 ```
 
-![java (1)](https://user-images.githubusercontent.com/49988347/204132318-cc481a33-fd25-46ec-9e79-8e48aa000b74.gif)
+![Screencast-from-30-11-22-10_18_01](https://user-images.githubusercontent.com/49988347/204758212-7e75307d-fac2-49a6-b210-941161eaeada.gif)
+
 
 
 **Forma de ejecución (Compilados, Interpretados, Virtuales):**
