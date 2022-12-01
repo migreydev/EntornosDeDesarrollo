@@ -87,9 +87,9 @@ Estos lenguajes se encuentran en un punto medio entre los dos anteriores. Se ben
 
 El lenguaje de alto nivel es aquel que se aproxima más al lenguaje natural humano que al lenguaje binario de las computadoras, el que se conoce como lenguaje de bajo nivel.
 
-Su función principal radica en que a partir de su desarrollo, existe la posibilidad de qye se pueda utilizar el mismo programa en distintas máquinas, es decir que es independiente de un hardware determinado. 
+Su función principal radica en que a partir de su desarrollo, existe la posibilidad de que se pueda utilizar el mismo programa en distintas máquinas, es decir que es independiente de un hardware determinado. 
 
-Además de utilizar palabras del lenguaje humano es más práctico y fácil de manipular para el programador.
+Además de utilizar palabras del lenguaje humano es **más práctico y fácil de manipular** para el programador.
 
 ![image|20](https://user-images.githubusercontent.com/49988347/204129692-c5d8a2a6-8e47-40dc-9b82-c7d9d57ad917.png)
 
