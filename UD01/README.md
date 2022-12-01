@@ -77,7 +77,7 @@ Son lenguajes totalmente dependientes de la máquina, es decir, que el programa 
 <a name="medionivel″></a>
 ### ***¿Qué es un lenguaje de medio nivel?***
 
-Estos lenguajes se encuentran en un punto medio entre los dos anteriores. Se beneficia de las ventajas de ambos y elimina o reduce los inconvenientes que cada uno tendría por separado. Estos lenguajes se usan para el desarrollo de distintas aplicaciones, por lo tanto, permiten una mayor abstracción, pero manteniendo características del lenguaje de bajo nivel.
+Estos lenguajes se encuentran en un punto medio entre los dos anteriores. Se beneficia de las ventajas de ambos y elimina o reduce los inconvenientes que cada uno tendría por separado.
 
 **Ejemplos de lenguajes de programacion de medio bajo**
 - Lenguaje C.
