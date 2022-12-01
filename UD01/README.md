@@ -74,9 +74,6 @@ Son lenguajes totalmente dependientes de la máquina, es decir, que el programa 
 **Ejemplos de lenguajes de programacion de nivel bajo**
 - Lenguaje ensamblador, lenguaje maquina.
 
-Este lenguaje de programación es un derivado del lenguaje maquina y está formado por abreviaturas de letras y números llamadas mnemotécnicos o mnemónicos. Con la aparición de este lenguaje se crearon los programas traductores para poder pasar los programas escritos en lenguaje ensamblador a lenguaje máquina.
-Como ventaja con respecto al código máquina es que los códigos fuentes eran más cortos y los programas creados ocupaban menos memoria.
-
 <a name="medionivel″></a>
 ### ***¿Qué es un lenguaje de medio nivel?***
 
