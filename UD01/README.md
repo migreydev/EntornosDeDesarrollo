@@ -169,17 +169,23 @@ Se refiere a un **conjunto de instrucciones o sentencias**. Por lo general peque
 ### Paradigmas Orientados a Objetos
 
 Es un modelo de programación informática que **organiza el diseño de software en torno a datos u objetos**, en lugar de funciones y lógica. Un objeto se puede definir como un campo de datos que tiene atributos y comportamiento únicos.
-  - En este caso algunos de los lenguajes de programación orientados a objetos son: _Python, PHP y Ruby_
+  - En este caso algunos de los lenguajes de programación orientados a objetos son: Python, PHP y Ruby
   
 ### Paradigmas funcionales
 
 Entendemos por programación funcional un **lenguaje de programación declarativo donde el programador especifica lo que quiere hacer**, en lugar de lidiar con el estado de los objetos. Es decir, las funciones estarían en un primer lugar y nos centraremos en expresiones que pueden ser asignadas a cualquier variable.
   - Actualmente contamos con una gran cantidad de lenguajes en donde podemos hacer uso de la programación funcional, por ejemplo :
-_Java, PHP, Ruby, Python, Elixir, Kotling, Haskell, Erlang_
+Java, PHP, Ruby, Python, Elixir, Kotling, Haskell, Erlang
 
 ### Ejemplos de codigo:
 
 - Paradigmas Imperativos: Pascal
 
 ![Online Pascal Compiler - online editor - Google Chrome 2022-11-29 17-29-45](https://user-images.githubusercontent.com/84182326/204587834-2136147f-9615-4901-93f2-f23f7b78d917.gif)
+
+- Paradigma Orientado a Objetos
+
+![Online ruby Compiler - online  - Google Chrome 2022-11-29 17-29-45](https://user-images.githubusercontent.com/84182326/204587834-2136147f-9615-4901-93f2-f23f7b78d917.gif)
+
+
 
