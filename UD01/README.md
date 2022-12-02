@@ -176,7 +176,7 @@ Entendemos por programación funcional un **lenguaje de programación declarativ
 Java, PHP, Ruby, Python, Elixir, Kotling, Haskell, Erlang
 ### Paradigmas  logicos 
 Este paradigma de programación está diseñado para que la computadora tome su propia decisión basándose en la lógica, con el fin de organizar de forma coherente todas esas instrucciones para poder alcanzar el objetivo fijado 
- -Entre los lenguajes de programación lógica podemos destacar Prolog, Lisp o Erlang
+ - Entre los lenguajes de programación lógica podemos destacar Prolog, Lisp o Erlang
 
 
 ### Ejemplos de codigo:
