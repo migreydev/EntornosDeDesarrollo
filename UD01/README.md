@@ -74,7 +74,6 @@ Son lenguajes totalmente dependientes de la máquina, es decir, que el programa 
 **Ejemplos de lenguajes de programacion de nivel bajo**
 - Lenguaje ensamblador, lenguaje maquina.
 
-<a name="medionivel″></a>
 ### ***¿Qué es un lenguaje de medio nivel?***
 
 Estos lenguajes se encuentran en un punto medio entre los dos anteriores. Se beneficia de las ventajas de ambos y elimina o reduce los inconvenientes que cada uno tendría por separado.
@@ -82,7 +81,6 @@ Estos lenguajes se encuentran en un punto medio entre los dos anteriores. Se ben
 **Ejemplos de lenguajes de programacion de medio bajo**
 - Lenguaje C.
 
-<a name="altonivel″></a>
 ### ***¿Qué es un lenguaje de alto nivel?***
 
 El lenguaje de alto nivel es aquel que se aproxima más al lenguaje natural humano que al lenguaje binario de las computadoras, el que se conoce como lenguaje de bajo nivel.
@@ -122,20 +120,20 @@ Cada lenguaje tiene su propio modelo de ejecución, y estas determinan la manera
 
 **_Existen 3 tipos:_**
 
-<a name="compilados″></a>
+
 **Compilados:**
 
     Un lenguaje compilado es un lenguaje de programación cuyas implementaciones son normalmente compiladores 
     (traductores que generan código de máquina a partir del código fuente) y no intérpretes (ejecutores paso 
     a paso del código fuente, donde no se lleva a cabo una traducción en la preejecución).  Eje.: C, Delphi y Python.
 
-<a name="interpretados″></a>
+
 **Interpretados:**
 
     Los lenguajes de programación interpretados son aquellos que convierten su lenguaje al de la máquina a medida 
     que ejecutan el código. Ejemplo de lenguajes interpretados: JavaScript, Lua y Ruby.
 
-<a name="virtuales″></a>
+
 **Virtuales:**
 
     Este código puede ser a su vez interpretado por una máquina virtual instalada en cualquier equipo. 
