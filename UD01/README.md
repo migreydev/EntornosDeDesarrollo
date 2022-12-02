@@ -174,6 +174,10 @@ Es un modelo de programación informática que **organiza el diseño de software
 Entendemos por programación funcional un **lenguaje de programación declarativo donde el programador especifica lo que quiere hacer**, en lugar de lidiar con el estado de los objetos. Es decir, las funciones estarían en un primer lugar y nos centraremos en expresiones que pueden ser asignadas a cualquier variable.
   - Actualmente contamos con una gran cantidad de lenguajes en donde podemos hacer uso de la programación funcional, por ejemplo :
 Java, PHP, Ruby, Python, Elixir, Kotling, Haskell, Erlang
+### Paradigmas  logicos 
+Este paradigma de programación está diseñado para que la computadora tome su propia decisión basándose en la lógica, con el fin de organizar de forma coherente todas esas instrucciones para poder alcanzar el objetivo fijado 
+ -Entre los lenguajes de programación lógica podemos destacar Prolog, Lisp o Erlang
+
 
 ### Ejemplos de codigo:
 
