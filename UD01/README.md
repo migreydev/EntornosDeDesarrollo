@@ -185,9 +185,5 @@ Este paradigma de programación está diseñado para que la computadora tome su 
 
 ![Online Pascal Compiler - online editor - Google Chrome 2022-11-29 17-29-45](https://user-images.githubusercontent.com/84182326/204587834-2136147f-9615-4901-93f2-f23f7b78d917.gif)
 
-- Paradigma Orientado a Objetos :Ruby
-
-![Online ruby Compiler - online  - Google Chrome 2022-11-29 17-29-45](https://github.com/Smartin0312/foto/blob/43bd298390e95391a7c991487612efc6054baf0c/GDB%20online%20Debugger%20_%20Compiler%20-%20Code,%20Compile,%20Run,%20Debug%20online%20C,%20C++%20-%20Google%20Chrome%202022-12-02%2009-05-37_Trim.gif)
-
 
 
