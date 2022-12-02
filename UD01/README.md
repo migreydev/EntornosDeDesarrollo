@@ -183,7 +183,7 @@ Java, PHP, Ruby, Python, Elixir, Kotling, Haskell, Erlang
 
 - Paradigma Orientado a Objetos 
 
-![Online ruby Compiler - online  - Google Chrome 2022-11-29 17-29-45](https://raw.githubusercontent.com/Smartin0312/foto/main/GDB%20online%20Debugger%20_%20Compiler%20-%20Code%2C%20Compile%2C%20Run%2C%20Debug%20online%20C%2C%20C%2B%2B%20-%20Google%20Chrome%202022-12-02%2009-05-37_Trim.gif?token=GHSAT0AAAAAAB2AZXETKVL3EFLALGYTTZQAY4JWTKA)
+![Online ruby Compiler - online  - Google Chrome 2022-11-29 17-29-45](https://github.com/Smartin0312/foto/blob/43bd298390e95391a7c991487612efc6054baf0c/GDB%20online%20Debugger%20_%20Compiler%20-%20Code,%20Compile,%20Run,%20Debug%20online%20C,%20C++%20-%20Google%20Chrome%202022-12-02%2009-05-37_Trim.gif)
 
 
 
