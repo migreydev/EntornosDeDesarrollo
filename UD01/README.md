@@ -112,7 +112,7 @@ public class Mi_Clase_1
 
 
 
-**Forma de ejecución (Compilados, Interpretados, Virtuales):**
+## Forma de ejecución (Compilados, Interpretados, Virtuales):**
  
 Especifica el comportamiento de los elementos de dicho lenguaje por lo que aplicándolo se puede derivar el comportamiento de un programa escrito en términos del lenguaje en cuestión.
 
@@ -121,23 +121,23 @@ Cada lenguaje tiene su propio modelo de ejecución, y estas determinan la manera
 **_Existen 3 tipos:_**
 
 
-**Compilados:**
+### **Compilados:**
 
-    Un lenguaje compilado es un lenguaje de programación cuyas implementaciones son normalmente compiladores 
-    (traductores que generan código de máquina a partir del código fuente) y no intérpretes (ejecutores paso 
-    a paso del código fuente, donde no se lleva a cabo una traducción en la preejecución).  Eje.: C, Delphi y Python.
-
-
-**Interpretados:**
-
-    Los lenguajes de programación interpretados son aquellos que convierten su lenguaje al de la máquina a medida 
-    que ejecutan el código. Ejemplo de lenguajes interpretados: JavaScript, Lua y Ruby.
+Un lenguaje compilado es un lenguaje de programación cuyas implementaciones son normalmente compiladores 
+(traductores que generan código de máquina a partir del código fuente) y no intérpretes (ejecutores paso 
+a paso del código fuente, donde no se lleva a cabo una traducción en la preejecución).  Eje.: C, Delphi y Python.
 
 
-**Virtuales:**
+### **Interpretados:**
 
-    Este código puede ser a su vez interpretado por una máquina virtual instalada en cualquier equipo. 
-    Tienen una ejecución lenta pero su versatilidad de poder ejecutarse en cualquier entorno los hace muy apreciados.
+Los lenguajes de programación interpretados son aquellos que convierten su lenguaje al de la máquina a medida 
+que ejecutan el código. Ejemplo de lenguajes interpretados: JavaScript, Lua y Ruby.
+
+
+### **Virtuales:**
+
+Este código puede ser a su vez interpretado por una máquina virtual instalada en cualquier equipo. 
+Tienen una ejecución lenta pero su versatilidad de poder ejecutarse en cualquier entorno los hace muy apreciados.
 
 **_Ejemplo en C:_**
 
